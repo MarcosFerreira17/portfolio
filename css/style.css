@@ -328,8 +328,8 @@ header {
   }
   
   .card {
-    width: 18rem;
-    height: 25rem;
+    width: 30rem;
+    height: 35rem;
     position: relative;
   }
   
@@ -426,7 +426,7 @@ header {
   .contato-left {
     width: 35%;
     background: linear-gradient(rgba(15, 15, 15, 0.6), rgba(22, 22, 22, 0.9)),
-      url(imagens/contato.jpg);
+      url(../css/img/contato.jpg);
     background-size: cover;
   }
   
