@@ -6,6 +6,7 @@ Este repósitorio se trata de um template de portifólio, sita-se a vontade para
     🐞 correção de bug
     🏁 release
 
+-----------------------------------------------------------------------------------------------------------------
 This repository is a portfolio template, is willing to modify and reuse...
 
 Commit Control Icons:
